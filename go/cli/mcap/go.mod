@@ -22,6 +22,8 @@ require (
 	google.golang.org/protobuf v1.28.0
 )
 
+require golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
+
 require (
 	cloud.google.com/go v0.103.0 // indirect
 	cloud.google.com/go/compute v1.7.0 // indirect
@@ -67,6 +69,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.4.0 // indirect
+	github.com/volcengine/ve-tos-golang-sdk/v2 v2.8.0
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e // indirect
 	golang.org/x/oauth2 v0.0.0-20220630143837-2104d58473e0 // indirect
